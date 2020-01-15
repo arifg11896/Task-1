@@ -1,12 +1,17 @@
-<html>
-Hellow World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h2>HAY</h2>
+</body>
 </html>
 <?php
 echo "kamran";
-<<<<<<< HEAD
+
 echo "pixiders";
 ?>
-=======
-echo "auj";
-?>
->>>>>>> 4636dd359bad369fed5ae5c676dfb23645cdbb82
