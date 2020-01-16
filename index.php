@@ -11,7 +11,7 @@
 </body>
 </html>
 <?php
-echo "kamran";
+echo "farhan";
 
 echo "pixiders";
 ?>
