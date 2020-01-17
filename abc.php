@@ -7,12 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>HAYddd</h2>
+    <?php echo $_SERVER['HTTP_USER_AGENT'];   ?>
 </body>
 </html>
-<?php
-echo "farhan";
-
-echo "pixiders";
-echo "sdlfj";
-?>
